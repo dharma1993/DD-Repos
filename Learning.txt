@@ -1,1 +1,2 @@
 DD is learning git.
+DD is good in basic commands of Git.
