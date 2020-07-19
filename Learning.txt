@@ -1,1 +1,2 @@
 DD is learning git.
+DD is learned the basic Git commands.
